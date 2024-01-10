@@ -20,7 +20,7 @@ pipelines:
           - zip -r build.zip build
           - pipe: atlassian/aws-amplify-deploy:0.1.4
             variables:
-              AWS_ACCESS_KEY_ID: AKIA2GIKHST7RMMVYHY2
-              AWS_SECRET_ACCESS_KEY: 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
-              AWS_REGION: ap-south-1
-              BRANCH: master
+              AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+              AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+              AWS_REGION: $AWS_REGION
+              BRANCH: $BITBUCKET_BRANCH
