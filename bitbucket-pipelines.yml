@@ -1,0 +1,26 @@
+image: node:14
+
+pipelines:
+  default:
+    - step:
+        name: Build and Test
+        script:
+          - apt-get update
+          - apt-get install -y unixodbc unixodbc-dev
+          - npm install -g node-gyp
+          - npm ci
+          # Add any additional build or test commands here
+
+    - step:
+        name: Deploy to AWS Amplify
+        deployment: production
+        script:
+          - apt-get update && apt-get install -y zip
+          - npm run build # Make sure your build step is configured appropriately
+          - zip -r build.zip build
+          - pipe: atlassian/aws-amplify-deploy:0.1.4
+            variables:
+              AWS_ACCESS_KEY_ID: AKIA2GIKHST7RMMVYHY2
+              AWS_SECRET_ACCESS_KEY: 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
+              AWS_REGION: ap-south-1
+              BRANCH: master
