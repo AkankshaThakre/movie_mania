@@ -1,0 +1,138 @@
+{
+  "awards": [
+    {
+      "AwardID": "A001_GoldenGlobe",
+      "AwardName": "Golden Globe Awards",
+      "Category": [
+        "Best Picture",
+        "Best Actor",
+        "Best Actress",
+        "Best Director"
+      ],
+      "Year": 1944
+    },
+    {
+      "AwardID": "A002_Oscars",
+      "AwardName": "Academy Awards",
+      "Category": [
+        "Best Picture",
+        "Best Actor",
+        "Best Actress",
+        "Best Original Song",
+        "Best Director",
+        "Best Actor in a Leading Role"
+      ],
+      "Year": 1929
+    },
+    {
+      "AwardID": "A003_Palme",
+      "AwardName": "Cannes Film Festival - Palme d''Or",
+      "Category": ["Best Film"],
+      "Year": 1955
+    },
+    {
+      "AwardID": "A004_Emmy",
+      "AwardName": "Primetime Emmy Awards",
+      "Category": [
+        "Outstanding Drama Series",
+        "Outstanding Comedy Series",
+        "Lead Actor in a Drama Series",
+        "Lead Actress in a Drama Series",
+        "Lead Actor in a Comedy Series",
+        "Reality-Competition Program"
+      ],
+      "Year": 1949
+    },
+    {
+      "AwardID": "A005_BAFTA",
+      "AwardName": "BAFTA Awards",
+      "Category": [
+        "Best Film",
+        "Best Actor",
+        "Best Original Screenplay",
+        "Best Director",
+        "Best Actor in a Leading Role"
+      ],
+      "Year": 1947
+    },
+    {
+      "AwardID": "A006_Pulitzer",
+      "AwardName": "Pulitzer Prize",
+      "Category": ["Fiction", "Drama", "History"],
+      "Year": 1917
+    },
+    {
+      "AwardID": "A007_Tony",
+      "AwardName": "Tony Awards",
+      "Category": [
+        "Best Play",
+        "Best Musical",
+        "Best Actor in a Play",
+        "Best Play"
+      ],
+      "Year": 1947
+    },
+    {
+      "AwardID": "A008_Grammy",
+      "AwardName": "Grammy Awards",
+      "Category": [
+        "Album of the Year",
+        "Record of the Year",
+        "Best New Artist"
+      ],
+      "Year": 1959
+    },
+    {
+      "AwardID": "A009_Nobel",
+      "AwardName": "Nobel Prize in Literature",
+      "Category": ["Fiction", "Non-Fiction", "Poetry", "Drama"],
+      "Year": 1901
+    },
+    {
+      "AwardID": "A010_SAG",
+      "AwardName": "Screen Actors Guild Awards",
+      "Category": [
+        "Outstanding Performance by a Cast",
+        "Male Actor in a Leading Role"
+      ],
+      "Year": 1995
+    },
+
+    {
+      "AwardID": "A012_Peabody",
+      "AwardName": "Peabody Awards",
+      "Category": ["Entertainment", "Documentary", "News"],
+      "Year": 1940
+    },
+    {
+      "AwardID": "A014_Pritzker",
+      "AwardName": "Pritzker Architecture Prize",
+      "Category": ["Architecture"],
+      "Year": 1979
+    },
+    {
+      "AwardID": "A015_Nobel_Peace",
+      "AwardName": "Nobel Peace Prize",
+      "Category": ["International Cooperation", "Peace"],
+      "Year": 1901
+    },
+    {
+      "AwardID": "A016_Sundance",
+      "AwardName": "Sundance Film Festival Awards",
+      "Category": ["Grand Jury Prize", "Directing Award", "Audience Award"],
+      "Year": 1985
+    },
+    {
+      "AwardID": "A021_Pulitzer_Fiction",
+      "AwardName": "Pulitzer Prize for Fiction",
+      "Category": ["Fiction"],
+      "Year": 1948
+    },
+    {
+      "AwardID": "A024_National_Book",
+      "AwardName": "National Book Award",
+      "Category": ["Fiction", "Nonfiction", "Poetry"],
+      "Year": 1950
+    }
+  ]
+}
