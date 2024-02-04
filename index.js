@@ -8,7 +8,7 @@ app.use(cors());
 
 const { pool } = require("./dbConfig");
 
-const port = 5000 || 80 || 443;
+const port = process.env.PORT || 5000;
 
 app.get("/", async (req, res) => {
   res.send("Welcome");
