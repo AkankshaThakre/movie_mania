@@ -1,0 +1,196 @@
+{
+  "missingDirectors": [
+    {
+      "DirectorID": "191CN_Director",
+      "DirectorName": "Christopher Nolan",
+      "BirthDate": "1970-07-30",
+      "CountryName": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "DirectorID": "192QT_Director",
+      "DirectorName": "Quentin Tarantino",
+      "BirthDate": "1963-03-27",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "193HM_Director",
+      "DirectorName": "Hayao Miyazaki",
+      "BirthDate": "1941-01-05",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "194SS_Director",
+      "DirectorName": "Steven Spielberg",
+      "BirthDate": "1946-12-18",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "195MS_Director",
+      "DirectorName": "Martin Scorsese",
+      "BirthDate": "1942-11-17",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "196DF_Director",
+      "DirectorName": "David Fincher",
+      "BirthDate": "1962-08-28",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "197SK_Director",
+      "DirectorName": "Stanley Kubrick",
+      "BirthDate": "1928-07-26",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "198MG_Director",
+      "DirectorName": "Mel Gibson",
+      "BirthDate": "1956-01-03",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "199DC_Director",
+      "DirectorName": "Damien Chazelle",
+      "BirthDate": "1985-01-19",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "200SL_Director",
+      "DirectorName": "Sergio Leone",
+      "BirthDate": "1929-01-03",
+      "CountryName": "Italy"
+    },
+    {
+      "DirectorID": "201JD_Director",
+      "DirectorName": "Jonathan Demme",
+      "BirthDate": "1944-02-22",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "202VF_Director",
+      "DirectorName": "Victor Fleming",
+      "BirthDate": "1889-02-23",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "203BL_Director",
+      "DirectorName": "Baz Luhrmann",
+      "BirthDate": "1962-09-17",
+      "CountryName": "Australia"
+    },
+    {
+      "DirectorID": "204AL_Director",
+      "DirectorName": "Ang Lee",
+      "BirthDate": "1954-10-23",
+      "CountryName": "Taiwan, Province of China"
+    },
+    {
+      "DirectorID": "205ZY_Director",
+      "DirectorName": "Zhang Yimou",
+      "BirthDate": "1951-11-14",
+      "CountryName": "China"
+    },
+    {
+      "DirectorID": "206CK_Director",
+      "DirectorName": "Chen Kaige",
+      "BirthDate": "1952-08-12",
+      "CountryName": "China"
+    },
+    {
+      "DirectorID": "207KO_Director",
+      "DirectorName": "Katsuhiro Otomo",
+      "BirthDate": "1954-04-14",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "208IT_Director",
+      "DirectorName": "Isao Takahata",
+      "BirthDate": "1935-10-29",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "209WK_Director",
+      "DirectorName": "Wong Kar-wai",
+      "BirthDate": "1958-07-17",
+      "CountryName": "Hong Kong"
+    },
+    {
+      "DirectorID": "210JW_Director",
+      "DirectorName": "John Woo",
+      "BirthDate": "1946-05-01",
+      "CountryName": "Hong Kong"
+    },
+    {
+      "DirectorID": "211EY_Director",
+      "DirectorName": "Edward Yang",
+      "BirthDate": "1947-11-05",
+      "CountryName": "Taiwan, Province of China"
+    },
+    {
+      "DirectorID": "212RK_Director",
+      "DirectorName": "Ryuhei Kitamura",
+      "BirthDate": "1969-05-30",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "213JZ_Director",
+      "DirectorName": "Jia Zhangke",
+      "BirthDate": "1970-05-20",
+      "CountryName": "China"
+    },
+    {
+      "DirectorID": "214YK_Director",
+      "DirectorName": "Yoshifumi Kondo",
+      "BirthDate": "1950-03-19",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "215JC_Director",
+      "DirectorName": "James Cameron",
+      "BirthDate": "1954-08-16",
+      "CountryName": "Canada"
+    },
+    {
+      "DirectorID": "216PJ_Director",
+      "DirectorName": "Peter Jackson",
+      "BirthDate": "1961-10-31",
+      "CountryName": "New Zealand"
+    },
+    {
+      "DirectorID": "217MG_Director",
+      "DirectorName": "Michel Gondry",
+      "BirthDate": "1963-05-08",
+      "CountryName": "France"
+    },
+    {
+      "DirectorID": "218MS_Director",
+      "DirectorName": "Makoto Shinkai",
+      "BirthDate": "1973-02-09",
+      "CountryName": "Japan"
+    },
+    {
+      "DirectorID": "219FD_Director",
+      "DirectorName": "Frank Darabont",
+      "BirthDate": "1959-01-28",
+      "CountryName": "France"
+    },
+    {
+      "DirectorID": "220WS_Director",
+      "DirectorName": "The Wachowskis",
+      "BirthDate": "1965-06-21",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "221RA_Director",
+      "DirectorName": "Roger Allers",
+      "BirthDate": "1949-06-29",
+      "CountryName": "United States of America"
+    },
+    {
+      "DirectorID": "222RM_Director",
+      "DirectorName": "Rob Minkoff",
+      "BirthDate": "1962-08-11",
+      "CountryName": "United States of America"
+    }
+  ]
+}
